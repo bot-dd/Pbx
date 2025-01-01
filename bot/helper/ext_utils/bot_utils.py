@@ -54,7 +54,7 @@ class MirrorStatus:
     STATUS_ARCHIVING   = "𝙰𝚛𝚌𝚑𝚒𝚟𝚎"
     STATUS_EXTRACTING  = "𝙴𝚡𝚝𝚛𝚊𝚌𝚝"
     STATUS_SPLITTING   = "𝚂𝚙𝚕𝚒𝚝𝚝𝚒𝚗𝚐"
-    STATUS_METADATA    = "𝙰𝚍𝚍𝚒𝚗𝚐 𝙼𝚎𝚝𝚊𝚍𝚊𝚝𝚊 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 @𝙿𝙱𝚡1_𝙱𝚘𝚝𝚜"
+    STATUS_METADATA    = "𝙰𝚍𝚍𝚒𝚗𝚐 𝙼𝚎𝚝𝚊𝚍𝚊𝚝𝚊 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 @RM_Movie_Flix"
     STATUS_CHECKING    = "𝙲𝚑𝚎𝚌𝚔𝚄𝚙"
     STATUS_SEEDING     = "𝚂𝚎𝚎𝚍𝚒𝚗𝚐"
 
